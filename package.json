@@ -1,6 +1,6 @@
 {
   "name": "linkedin-deleter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Bulk delete LinkedIn posts using Playwright",
   "bin": {
     "linkedin-deleter": "bin/cli.js"
