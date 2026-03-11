@@ -1,4 +1,18 @@
-# File Structure
+# LinkedIn Cleaner
+
+Bulk delete LinkedIn posts using Playwright.
+
+## Run
+
+npx linkedin-cleaner 50
+
+## Install globally
+
+npm install -g linkedin-cleaner
+
+linkedin-cleaner 50
+
+## File Structure
 
 linkedin-cleaner/
 │
