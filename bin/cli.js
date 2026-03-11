@@ -5,7 +5,7 @@ const { program } = require("commander");
 const { runCleaner } = require("../src/core/cleaner");
 
 program
-  .name("linkedin-cleaner")
+  .name("linkedin-deleter")
   .description("Bulk delete LinkedIn posts")
   .version("1.0.0")
   .argument("<count>", "number of posts to delete")

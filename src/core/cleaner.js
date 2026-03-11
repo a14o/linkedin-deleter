@@ -4,7 +4,7 @@ const { runDeletionLoop } = require("../actions/deleteLoop");
 
 async function runCleaner(maxDeletes) {
 
-  console.log(`LinkedIn Cleaner\n----------------`);
+  console.log(`LinkedIn Post Deleter\n----------------`);
 
   const { browser, page } = await startBrowser();
 
@@ -14,7 +14,7 @@ async function runCleaner(maxDeletes) {
 
   await browser.close();
 
-  console.log("Cleaning completed.");
+  console.log("Deleting completed.");
 }
 
 module.exports = { runCleaner };
