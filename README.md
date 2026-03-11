@@ -14,7 +14,7 @@ linkedin-cleaner 50
 
 ## File Structure
 
-linkedin-cleaner/
+linkedin-post-deleter/
 │
 ├─ bin/
 │ └─ cli.js
