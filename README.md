@@ -2,8 +2,6 @@
 
 Bulk delete LinkedIn posts using Playwright via a simple CLI.
 
----
-
 ## Features
 
 - Automatically logs into LinkedIn
@@ -11,8 +9,6 @@ Bulk delete LinkedIn posts using Playwright via a simple CLI.
 - Easy terminal input for the number of posts to delete
 - Saves your session to avoid logging in every time
 - Safe, educational, and personal automation tool
-
----
 
 ## Installation
 
@@ -45,6 +41,7 @@ linkedin-deleter 50
 
 ## File Structure
 
+```
 linkedin-deleter/
 │
 ├─ bin/
@@ -75,6 +72,7 @@ linkedin-deleter/
 │
 ├─ package.json
 ├─ README.md
+```
 
 ## Notes
 
@@ -95,3 +93,7 @@ linkedin-deleter/
 ## License
 
 This project is licensed under the terms of the MIT License.
+
+```
+
+```
